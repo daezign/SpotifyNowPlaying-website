@@ -6,7 +6,7 @@ It displays what you are currently listening to in real-time. If you pause or cl
 
 An example of this can be found here: [daezign](https://daezign.daezign.workers.dev/).
 
-* This can be altered to work with any style of website, not just bento based ones.
+ps This can be altered to work with any style of website, not just bento based ones.
 
 ---
 
