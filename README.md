@@ -1,10 +1,12 @@
-# Spotify Widget
+# Spotify Widget - Bento Style Websites
 
-A live-updating Spotify widget designed for Bento-style website layouts. 
+A live-updating Spotify widget designed for your website layouts. 
 
 It displays what you are currently listening to in real-time. If you pause or close Spotify, it gracefully falls back to showing your last played track with a static equalizer.
 
 An example of this can be found here: [daezign](https://daezign.daezign.workers.dev/).
+
+* This can be altered to work with any style of website, not just bento based ones.
 
 ---
 
