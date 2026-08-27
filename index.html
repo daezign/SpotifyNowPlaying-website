@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bento Spotify Widget</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="bento-grid">
+    <!-- Spotify Card -->
+    <a id="spotify-card" class="spotify-card" href="#" target="_blank" rel="noopener noreferrer">
+      <div class="spotify-content">
+        <img id="spotify-album-art" class="spotify-album-art" src="" alt="Album Art">
+        <div class="spotify-info">
+          <span id="spotify-status" class="spotify-status">Loading...</span>
+          <h3 id="spotify-song" class="spotify-song">---</h3>
+          <p id="spotify-artist" class="spotify-artist">---</p>
+        </div>
+        <div id="equalizer" class="equalizer is-paused">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
